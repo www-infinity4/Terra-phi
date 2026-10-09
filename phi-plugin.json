@@ -1,0 +1,22 @@
+{
+  "name": "terriphi",
+  "displayName": "TerriPhi",
+  "season": "october",
+  "type": "seasonal-experience",
+  "entry": "index.html",
+  "widgetProvider": "WidgetPhi",
+  "widget": "seasonal-card",
+  "modes": [
+    "game",
+    "video",
+    "sound",
+    "costume",
+    "vintage"
+  ],
+  "requiresDeployment": true,
+  "wallet": {
+    "star": "host-verified",
+    "share": "host-verified",
+    "collect": "host-verified"
+  }
+}
